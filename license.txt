@@ -1,0 +1,21 @@
+# Devil's Eye - Educational Use License (v1.0-EDU)
+
+Copyright (c) 2025 Zaheer Abbas Khan
+
+Permission is hereby granted, free of charge, to use, copy, and study this software 
+for educational, research, and security awareness purposes **only**.
+
+You may NOT:
+- Deploy this software on computers you do not own
+- Use it to capture sensitive or private information
+- Use it for malicious or unethical purposes
+
+You MAY:
+- Use it on your own system or isolated virtual machines
+- Study the code for learning purposes
+- Analyze, modify, and improve it for educational exercises
+
+This software is provided "as is", without warranty of any kind, express or implied. 
+The author is not responsible for any misuse or damage caused by this software.
+
+By using this software, you agree to comply with all applicable laws and the terms of this license.
