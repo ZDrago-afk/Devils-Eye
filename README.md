@@ -46,8 +46,6 @@ python devils_eye_stop.py
 rm -rf devils_eye_logs/
 
 
-## 📁 FILE STRUCTURE
-
 ## 📁 Project Structure
 
 | File / Folder | Purpose |
@@ -126,3 +124,4 @@ Use this knowledge to build better security, never to compromise it.
 
 
 *Educational Use Only | Version: 1.0-EDU*
+
