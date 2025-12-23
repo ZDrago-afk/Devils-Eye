@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="pictures/devil_eye.png" alt="Devil's Eye Logo" width="280">
+</p>
 # 👁️ Devil's Eye - Educational Keylogger
 **Devil's Eye** is a Python-based background keylogger for **educational and ethical hacking purposes**.  
 It captures keystrokes invisibly, logs them for analysis, and demonstrates how attackers could exploit such tools.  
@@ -45,13 +48,18 @@ rm -rf devils_eye_logs/
 
 ## 📁 FILE STRUCTURE
 
-| File | Purpose |
-|------|---------|
-| `devils_eye_launcher.py` | GUI launcher with consent warnings |
-| `devils_eye_core.py` | Background keylogger engine |
-| `devils_eye_stop.py` | Stop utility and statistics |
+## 📁 Project Structure
+
+| File / Folder | Purpose |
+|--------------|---------|
+| `devils_eye_launcher.py` | Consent-based launcher and user warnings |
+| `devils_eye_core.py` | Educational input monitoring logic |
+| `devils_eye_stop.py` | Controlled shutdown and statistics |
 | `requirements.txt` | Python dependencies |
-| `readme.md` | Project documentation |
+| `README.md` | Project documentation |
+| `pictures/` | Project assets and branding |
+| `pictures/devil_eye.png` | Devil’s Eye logo |
+| `devils_eye_logs/` | Locally stored lab output |
 
 
 ## 🎓 EDUCATIONAL EXERCISE
@@ -115,5 +123,6 @@ python devils_eye_stop.py --stats
 Use this knowledge to build better security, never to compromise it.
 
 ---
+
 
 *Educational Use Only | Version: 1.0-EDU*
