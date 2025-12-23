@@ -1,6 +1,7 @@
 <p align="center">
   <img src="pictures/devil_eye.png" alt="Devil's Eye Logo" width="280">
 </p>
+
 ## 👁️ Devil's Eye - Educational Keylogger
 **Devil's Eye** is a Python-based background keylogger for **educational and ethical hacking purposes**.  
 It captures keystrokes invisibly, logs them for analysis, and demonstrates how attackers could exploit such tools.  
@@ -124,5 +125,6 @@ Use this knowledge to build better security, never to compromise it.
 
 
 *Educational Use Only | Version: 1.0-EDU*
+
 
 
